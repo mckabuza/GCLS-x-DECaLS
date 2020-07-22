@@ -1,0 +1,116 @@
+"CLUSTER","ASTROMETRY","POLARIZATION","DYNAMIC RANGE","I_MAX (Jy)","FEATURE"
+"Abell 13",,,"moderate",0.186,"relic"
+"Abell 22","fixed","yes","good",0.078,
+"Abell 33",,,"ok",0.272,
+"Abell 85","fixed","yes","ok",0.13,"relic, AGNs"
+"Abell 133",,,"poor",0.172,
+"Abell 141","fixed","yes","good",0.044,
+"Abell 168",,,"poor",,"relic?"
+"Abell 194","fixed","yes","moderate",0.057,"relic, AGN"
+"Abell 209",,,"moderate",0.138,"halo?"
+"Abell 370","fixed",,,,
+"Abell 521",,,"good",0.039,"relic"
+"Abell 545","fixed",,"moderate",0.085,"halo"
+"Abell 548","fixed","yes","ok",0.151,"AGNs"
+"Abell 2485",,,"good",0.061,
+"Abell 2597",,,"bad",1.59,
+"Abell 2645",,,"poor",0.289,
+"Abell 2667",,,"good",0.115,
+"Abell 2744",,,"good",0.182,"halo, relic"
+"Abell 2751",,,"good",0.088,"relic, AGN"
+"Abell 2811",,,"good",0.073,"halo"
+"Abell 2813",,,"poor",0.385,
+"Abell 2895",,,"ok",0.534,
+"Abell 3365",,,"poor/good","0.081/0.065","halo?"
+"Abell 3376","fixed","yes","ok",0.267,"relic"
+"Abell 3558",,,"ok",0.247,
+"Abell 3562",,,"good",0.351,"halo/relic?"
+"Abell 3667","fixed","yes","ok",0.1123,"relic"
+"Abell 4038","fixed",,"good",0.067,
+"Abell S295","fixed","yes","good",0.045,"halo, AGN"
+"Abell S1063",,,"good",0.186,"halo "
+"Abell S1121",,,"poor",1.33,
+"Bullet",,,"good",0.126,"halo, relic"
+"El Gordo",,,"good",0.045,"halo, relic"
+"PLCK G200.9-28.2","fixed","yes","moderate-poor/ok","0.066/0.070","relic, AGNs"
+"MACS J0025.4-1222","fixed",,"moderate",0.323,
+"MACS J0257.6-2209",,,"ok",0.213,
+"MACS J0417.5-1154","fixed",,"good",0.151,"halo?"
+"RXC J0510.7-0801","fixed",,"moderate",0.451,
+"RXC J0520.7-1328","fixed",,"poor",0.054,
+"RXC J1314-2525",,,"moderate",0.25,
+"RXC J2351.0-1954",,,"ok",0.136,
+"J0014.3-6604","fixed",,"good",0.082,
+"J0027.3-5015","fixed",,"good",0.194,
+"J0051.1-4833","fixed",,"good",0.17,
+"J0108.5-4020","fixed",,"good",0.42,
+"J0117.8-5455","fixed",,"good",0.101,"AGN"
+"J0145.0-5300","fixed",,"moderate",0.203,"AGNs"
+"J0145.2-6033","fixed",,"good",0.121,"AGNs"
+"J0212.8-4707","fixed",,"moderate",0.322,
+"J0216.3-4816","fixed","yes","ok - rumble from large AGNs",0.09,"AGNs"
+"J0217.2-5244","fixed","no","moderate",0.189,
+"J0225.9-4154","fixed",,"ok",0.325,
+"J0232.2-4420","fixed","yes","good",0.057,"halo"
+"J0303.7-7752","fixed",,"good",0.0114,
+"J0314.3-4525","fixed","yes","good",0.086,"AGNs"
+"J0317.9-4414","fixed",,"poor",1.16,"AGNs"
+"J0328.6-5542","fixed",,"ok",0.128,
+"J0336.3-4037","fixed",,"ok",0.295,"AGNs"
+"J0342.8-5338","fixed",,"good",0.151,"halo, AGN"
+"J0351.1-8212","fixed","yes","good",0.097,"relic, AGNs"
+"J0352.4-7401","fixed","yes","good",0.08,"relic, AGNs"
+"J0406.7-7116","fixed",,"ok",0.357,"AGNs, relic?"
+"J0416.7-5525","fixed",,"good",0.201,
+"J0431.4-6126","fixed",,"ok",0.289,"halo, relics, AGNs"
+"J0449.9-4440","fixed",,"good",0.123,"AGNs"
+"J0510.2-4519","fixed",,"good",0.052,"AGNs"
+"J0516.6-5430","fixed","yes","ok",0.088,"relic, halo, AGNs"
+"J0525.8-4715","fixed",,"ok",0.073,"AGNs"
+"RXC J0528.9-3927","fixed",,"good",0.086,"halo, AGNs"
+"RXC J0540.1-4050","fixed",,"ok",0.162,
+"RXC J0540.1-4322","fixed",,"moderate",0.73,
+"J0542.8-4100","fixed",,"good",0.077,
+"RXC J0543.4-4430","fixed",,"ok",0.295,"AGNs"
+"RXC J0545.5-4756","fixed",,"ok",0.15,
+"J0600.8-5835","fixed",,"good",0.047,
+"J0607.0-4928","fixed",,"ok",0.072,"AGNs"
+"J0610.5-4848","fixed",,"good",0.041,"AGNs"
+"J0616.8-4748","fixed",,"good",0.237,"AGNs"
+"J0625.2-5521","fixed",,"ok",0.111,"AGNs"
+"J0626.3-5341","fixed",,"poor",0.448,"AGN "
+"J0627.2-5428","fixed","yes","poor",0.318,"relic, AGN"
+"J0628.8-4143",,,,,
+"J0631.3-5610","fixed",,"good",0.037,
+"J0637.3-4828","fixed","yes","good",0.096,"halo"
+"J0638.7-5358","fixed","yes","ok",0.099,"halo"
+"J0645.4-5413","fixed",,"moderate",0.218,"halo"
+"J0712.0-6030","fixed",,"moderate",0.147,"AGNs"
+"J0738.1-7506","fixed",,"good",0.047,
+"J0745.1-5404","fixed",,"good",0.119,"AGNs, relic?"
+"J0757.7-5315","fixed",,"good",0.09,"halo?"
+"J0812.5-5714","fixed",,"good",0.048,"AGNs, halo?"
+"J0820.9-5704","fixed",,"poor",0.575,
+"J0943.4-7619","fixed",,"poor",1.8,
+"J0948.6-8327","fixed","yes","good",0.054,
+"J1040.7-7047","fixed",,"moderate",0.601,"AGNs"
+"J1130.0-4213","fixed",,"ok",0.144,"AGNs, relic?"
+"J1145.6-5420","fixed",,"ok",0.18,
+"J1201.0-4623","fixed","yes","good",0.055,
+"J1240.2-4825","fixed",,"ok",0.13,"AGNs"
+"J1248.7-4118","fixed",,"dreadful",0.97,
+"J1358.9-4750",,,,,
+"J1410.4-4246","fixed",,"moderate",0.422,"AGNs"
+"J1423.7-5412","fixed",,"moderate",0.067,
+"J1518.3-4632",,,"ok",0.371,
+"J1535.1-4658","fixed",,"ok - rumble",0.095,
+"J1539.5-8335","fixed","yes","good",0.232,"halo, relic?"
+"J1601.7-7544","fixed","yes","ok",0.071,"halo "
+"J1645.4-7334",,,,,
+"J1653.0-5943","fixed",,"ok - rumble",0.101,"AGN"
+"J1705.1-8210","fixed",,"good",0.077,
+"J1840.6-7709","fixed",,"bleech",0.689,
+"J2104.9-8243","fixed",,"good",0.107,"AGNs"
+"J2222.2-5235","fixed",,"ok",0.48,
+"J2319.2-6750","fixed","yes","ok",0.088,"AGNs"
+"J2340.1-8510","fixed","yes","ok",0.2,"AGNs"
